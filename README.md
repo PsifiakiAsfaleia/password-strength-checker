@@ -22,7 +22,7 @@ A lightweight, command-line Python tool that evaluates password strength against
 
 2. **Run the script:**
    ```bash
-   python password_checker.py
+   python Password_Strength_Checker.py
    ```
 
 3. **Test your passwords:**
